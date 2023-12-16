@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+guessing_game/__init__.py
+guessing_game/game.py
+guessing_game.egg-info/PKG-INFO
+guessing_game.egg-info/SOURCES.txt
+guessing_game.egg-info/dependency_links.txt
+guessing_game.egg-info/entry_points.txt
+guessing_game.egg-info/requires.txt
+guessing_game.egg-info/top_level.txt
+questions/questions.txt

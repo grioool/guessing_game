@@ -1,0 +1,2 @@
+[console_scripts]
+guessing_game = guessing_game:GuessingGame.main

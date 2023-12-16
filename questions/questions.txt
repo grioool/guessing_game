@@ -1,0 +1,71 @@
+1. What is the main difference between BIOS and UEFI?
+   BIOS is a legacy firmware interface for initializing hardware during boot, while UEFI is its modern, more capable replacement with features like secure boot and larger disk support.
+
+2. What is the purpose of Linux GRUB?
+   GRUB (GRand Unified Bootloader) is a boot loader package that supports multiple operating systems on a single computer.
+
+3. How do you open an emulated terminal in UNIX/Linux?
+   It can typically be opened using shortcuts like Ctrl+Alt+T or by searching for 'Terminal' in the system's application menu.
+
+4. What does 'free' mean in the context of FLOSS?
+   'Free' in FLOSS (Free/Libre and Open Source Software) refers to freedom, meaning the software can be used, modified, and redistributed freely.
+
+5. What are the key characteristics of the BSD and MIT licenses?
+   Both BSD and MIT licenses are permissive, allowing proprietary use of software with minimal restrictions on redistribution.
+
+6. Why was C language crucial for UNIX development?
+   UNIX was rewritten in C, making it one of the first operating systems written in a high-level language, thus increasing its portability.
+
+7. What systems is Bash available on?
+   Bash is primarily available on UNIX-based systems, including Linux and macOS.
+
+8. What is the difference in the Bash prompt for a regular user and root?
+   The root user's prompt typically ends with a `#`, while a regular user's prompt ends with a `$`.
+
+9. What is the purpose of wildcards in Bash?
+   Wildcards are used for pattern matching in file names and directory paths.
+
+10. How do you use the 'man' command?
+    `man` is used to display the manual pages of other commands, e.g., `man ls`.
+
+11. What is the difference between 'echo' and 'cat' in file handling?
+    `echo` is used for writing text to standard output or files, while `cat` is for displaying file contents.
+
+12. How do you compress files using 'tar'?
+    Use `tar -czvf archive.tar.gz /path/to/directory` to compress and `tar -xzvf archive.tar.gz` to extract.
+
+13. What is the difference between appending and overwriting a file in stream redirection?
+    Appending (`>>`) adds content to the end of a file, while overwriting (`>`) replaces the file's content.
+
+14. How do you use grep with regular expressions?
+    Use `grep` with patterns to search for matching text in files, e.g., `grep 'pattern' filename`.
+
+15. How do you change a user's password in UNIX?
+    Use `passwd` followed by the username to change a user's password.
+
+16. What is the purpose of the 'chmod' command?
+    `chmod` changes the access permissions of files and directories.
+
+17. What is the difference between a hard link and a symlink?
+    A hard link is a direct reference to the data of a file, while a symlink is a pointer to another file.
+
+18. What is the purpose of the 'df' command?
+    `df` displays information about disk space usage on file systems.
+
+19. What is a zombie process in UNIX?
+    A zombie process is a terminated process that still has an entry in the process table.
+
+20. How do you list currently running processes?
+    Use `ps` or `top` to list and view details about running processes.
+
+21. What is the role of a daemon in UNIX systems?
+    A daemon is a background process that runs without direct user interaction, typically handling system or network services.
+
+22. How do you schedule tasks using 'cron' in UNIX?
+    Use `crontab -e` to edit the cron table and schedule tasks at specific intervals.
+
+23. What is the difference between 'git pull' and 'git fetch'?
+    `git pull` fetches and merges changes from a remote repository, while `git fetch` only fetches changes without merging.
+
+24. How do you create a new branch in Git?
+    Use `git
